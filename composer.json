@@ -1,6 +1,7 @@
 {
     "name": "ebess/advanced-nova-media-library",
     "description": "Laravel Nova tools for managing the Spatie media library.",
+    "version": "dev-ixbt",
     "keywords": [
         "laravel",
         "nova"
